@@ -9,7 +9,7 @@ As a user,
 So that I can see pages that I have saved,
 I would like to have a list of bookmarks displayed to me.
 ```
-![First User Story - Domain Model](https://raw.githubusercontent.com/jai-jk/bookmark-manager/81fe818531fc96b96b9c55aad2dd7fd44d4e2ce9/domain-model-1.svg)
+![First User Story - Domain Model](https://github.com/jai-jk/bookmark-manager/blob/main/domain-model-1.svg)
 
 # How To Use #
 
