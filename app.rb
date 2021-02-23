@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 require './lib/bookmark.rb'
 require 'sinatra/base'
+require 'pg'
 
 # Store and display Bookmarks
 class BookmarkManager < Sinatra::Base
