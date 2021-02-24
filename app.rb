@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require './lib/bookmark.rb'
+require './lib/bookmark'
 require 'sinatra/base'
 require 'pg'
 
