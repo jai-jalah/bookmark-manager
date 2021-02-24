@@ -11,31 +11,55 @@
           1,
           1,
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           1,
           1,
           1,
           null,
-          1,
-          1,
-          1,
           1,
           null,
           null,
           null
         ]
       },
-      "/Users/JaiJk/Projects/bookmark-manager/spec/features/bookmark_feature_spec.rb": {
+      "/Users/JaiJk/Projects/bookmark-manager/spec/features/add_bookmark_spec.rb": {
         "lines": [
           null,
           null,
           1,
           1,
           1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/JaiJk/Projects/bookmark-manager/spec/features/bookmarks_feature_spec.rb": {
+        "lines": [
+          null,
           null,
           1,
           1,
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           1,
           1,
@@ -58,6 +82,6 @@
         ]
       }
     },
-    "timestamp": 1614168813
+    "timestamp": 1614202518
   }
 }

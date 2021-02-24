@@ -11,6 +11,12 @@ I would like to have a list of bookmarks displayed to me.
 ```
 ![First User Story - Domain Model](https://github.com/jai-jk/bookmark-manager/blob/main/domain-model-1.svg)
 
+```
+As a user,
+So that I can save new bookmarks,
+I want to be able to add new bookmarks.
+```
+
 # How To Use #
 
 To work with the database for the bookmarks, the superuser needs to set it up from scratch. Here's how:
