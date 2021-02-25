@@ -6,28 +6,47 @@
           null,
           null,
           1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
           1,
           null,
           1,
           1,
           1,
           1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           null,
           1,
           1,
           1,
+          1,
           null,
+          1,
+          1,
+          1,
           1,
           null,
           null,
+          null
+        ]
+      },
+      "/Users/JaiJk/Projects/bookmark-manager/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
           null
         ]
       },
@@ -35,6 +54,7 @@
         "lines": [
           null,
           null,
+          1,
           1,
           1,
           1,
@@ -82,6 +102,6 @@
         ]
       }
     },
-    "timestamp": 1614202518
+    "timestamp": 1614267872
   }
 }
