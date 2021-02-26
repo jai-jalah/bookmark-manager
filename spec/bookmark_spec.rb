@@ -30,6 +30,11 @@ describe Bookmark do
       expect(bookmark.title).to eq 'b-witched fan club'
       expect(bookmark.url).to eq 'http://www.fanpop.com/clubs/b-witched' # << Iain's choice
     end
+
+    it 'does not create a new bookmark if the URL is not valid' do
+      Bookmark.add(url: 'not a real bookmark', title: 'not a real bookmark')
+      expect(Bookmark.all).to be_empty
+    end
   end
 
   describe '#delete' do
@@ -55,7 +60,7 @@ describe Bookmark do
     end
   end
 
-  describe '.find' do
+  describe '#find' do
     it 'returns the requested bookmark object' do
       bookmark = Bookmark.add(title: 'Makers Academy', url: 'http://www.makersacademy.com')
 

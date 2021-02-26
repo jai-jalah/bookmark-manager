@@ -14,7 +14,7 @@
   </li>
   <% end %>
 </ul>
-
+<%= flash[:notice] %>
 <form action="/bookmarks/new" method="get">
   <input type="submit" value="Add New Bookmark">
 </form>
