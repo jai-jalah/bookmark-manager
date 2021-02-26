@@ -31,4 +31,14 @@ describe Bookmark do
       expect(bookmark.url).to eq 'http://www.fanpop.com/clubs/b-witched' # << Iain's choice
     end
   end
+
+  describe '#delete' do
+    it 'deletes the given bookmark' do
+      bookmark = Bookmark.add(title: 'Makers Academy', url: 'http://www.makersacademy.com')
+
+      Bookmark.delete(id: bookmark.id)
+
+      expect(Bookmark.all.length).to eq 0
+    end
+  end
 end
