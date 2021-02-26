@@ -23,6 +23,12 @@ So that I can get rid of bookmarks I no longer want,
 I want to be able to delete a bookmark.
 ```
 
+```
+As a user
+So I can change a bookmark,
+I want to update a bookmark
+```
+
 # How To Use #
 
 To work with the database for the bookmarks, the superuser needs to set it up from scratch. Here's how:
