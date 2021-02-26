@@ -88,6 +88,31 @@
           null
         ]
       },
+      "/Users/JaiJk/Projects/bookmark-manager/spec/database_connection_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/JaiJk/Projects/bookmark-manager/spec/features/add_bookmark_spec.rb": {
         "lines": [
           null,
@@ -182,6 +207,6 @@
         ]
       }
     },
-    "timestamp": 1614353321
+    "timestamp": 1614362318
   }
 }

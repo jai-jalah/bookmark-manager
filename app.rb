@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
-require './lib/bookmark'
 require 'sinatra/base'
 require 'pg'
+require './lib/bookmark'
+require './database_connection_setup'
 
 # Store and display Bookmarks
 class BookmarkManager < Sinatra::Base
